@@ -4,7 +4,6 @@ Watch Japan's most popular anime with AnimeBay - The Fastest Anime Source. Both 
 
 # App Features:
 1 - NO ANNOYING ADS during streaming.
-
 2 - Simple interface - The Simpler, The Better -
 
 3 - New episodes one hour after airing in Japan.
